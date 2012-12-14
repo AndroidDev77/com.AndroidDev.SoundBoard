@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="hello">Hello dev, newBoard!</string>
+    <string name="ringtone">Save Ringtone</string>
+    <string name="app_name">Trinidad James Soundboard</string>
+    <string name="molly1">Molly</string>
+    <string name="spelmen1">Spelmen</string>
+    <string name="freshmen1">Freshmen</string>
+    <string name="justwatch1">Just Watch</string>
+    <string name="snitches1">Snitches</string>
+</resources>
